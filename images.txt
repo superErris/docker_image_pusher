@@ -1,2 +1,1 @@
-elasticsearch:8.12.2
-kibana:8.12.2
+openjdk:8u201-jdk-alpine3.9
